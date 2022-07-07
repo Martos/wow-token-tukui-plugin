@@ -1,0 +1,7 @@
+## Interface: 90205
+## Author: Martos
+## Version: 1.0
+## Title: |cffff8000Tukui_WoWToken|r
+## Notes: Tukui plugin for wow token progress bar
+
+Init.lua
